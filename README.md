@@ -1,16 +1,43 @@
-## Hi there 👋
+<div align="center">
+<img src="https://github.com/prunellier/prunellier/blob/main/Imgs/wormy.gif" alt="Wyrm" align="center">
+</div>
 
-<!--
-**prunellier/prunellier** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="center">
+<img src="https://github.com/prunellier/prunellier/blob/main/Imgs/spratch.gif" alt="Sprout" align="center">
+</div>
 
-Here are some ideas to get you started:
+<h2>
+<div align="center">
+Welcome
+</div>
+</h2>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div align="center">
+  <p>
+    Hi, I'm Yev, a 22 yr old Data Science grad who's interested in web dev and game dev as a recent hobby. I'm still in the process of learning (including fixing this readme) but stay around as I liven this place up with a few repositories!
+  </p>
+ 
+</div>
+
+<div align="center">
+  <p> (also featured: brain.exe stopping as I code TT)</p>
+ <img src="https://github.com/prunellier/prunellier/blob/main/Imgs/midoriyanod.gif" align="center">
+    
+</div>
+
+
+<br>
+<div align="center">
+<p>Thanks for visiting, and have a great day!</p>
+<div>
+  <img src="https://github.com/prunellier/prunellier/blob/main/Imgs/pusheen.gif" alt="Sm" align="center">
+</div>
+
+  <br>
+<div>  
+  <img src="https://github.com/prunellier/prunellier/blob/main/Imgs/stonediv1.png" alt="Sm" align="center">
+</div>
+</div>
+
+
+
